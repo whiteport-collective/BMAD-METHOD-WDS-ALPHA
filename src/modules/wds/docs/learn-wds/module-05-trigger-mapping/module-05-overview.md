@@ -139,7 +139,10 @@ Deep dive into the psychology that drives behavior:
 
 **Time:** 8-10 minutes
 
-Your strategic one-page document:
+**The Four-Layer Structure:**
+- Business Goals → Product/Solution → Target Groups → Usage Goals (Positive + Negative separated)
+
+**What you'll learn:**ategic one-page document:
 
 - What the Trigger Map looks like
 - How to read and use it

@@ -42,40 +42,55 @@ A Trigger Map:
 
 ## The Structure
 
-### Center: Business Goals
+**The Trigger Map flows horizontally from left to right in four layers:**
+
+### Layer 1: Business Goals (Left)
 
 **What it shows:**
-- Your vision statement
-- 3-5 SMART objectives
-- What success looks like
+- Vision statement(s) - inspirational direction
+- 3-5 SMART objectives - measurable targets
+- Multiple goals can feed into the product
+
+**Visual cues:**
+- Blue boxes on the left
+- Clear hierarchy of goals
+- All connect to the product/solution
+
+### Layer 2: Product/Solution (Center)
+
+**What it shows:**
+- Product name
+- Brief description of what it does
+- Central hub of the map
 
 **Why it's central:**
-- Everything radiates from here
-- Visual reminder that goals drive everything
-- Easy to see if a decision supports goals
+- Connects business goals to users
+- Shows what you're building
+- Everything flows through here
 
-### Radiating Out: Target Groups
+### Layer 3: Target Groups (Middle-Right)
 
 **What it shows:**
 - 3-5 prioritized personas
-- Ranked by strategic value
-- Connected to business goals
+- Priority indicators (👥 primary, 👤 secondary)
+- Connected from the product
 
 **Visual cues:**
-- Size or color can indicate priority
-- Lines show connection to goals
-- Clear hierarchy
+- Orange boxes
+- Emoji indicators show priority
+- Lines connect from product to each group
 
-### Connected to Each Group: Usage Goals
+### Layer 4: Usage Goals (Right)
 
 **What it shows:**
-- Positive drivers (what they want)
-- Negative drivers (what they fear)
-- Prioritized by emotional intensity
+- **Positive drivers** (✅ green) - What they want to achieve
+- **Negative drivers** (❌ red) - What they want to avoid
+- Separated into distinct boxes per target group
 
 **Visual organization:**
-- Positive drivers in one color/section
-- Negative drivers in another
+- Green boxes for positive drivers
+- Red boxes for negative drivers
+- Each target group has both types
 - Top drivers emphasized
 
 ---
@@ -83,25 +98,24 @@ A Trigger Map:
 ## Generic Example Structure
 
 ```
-                    [BUSINESS GOALS]
-                    Vision: [Statement]
-                    Goals:
-                    1. [SMART objective]
-                    2. [SMART objective]
-                    3. [SMART objective]
-                           |
-        __________________|__________________
-       |                  |                  |
-   [GROUP 1]          [GROUP 2]          [GROUP 3]
-   Priority #1        Priority #2        Priority #3
-       |                  |                  |
-   Positive:          Positive:          Positive:
-   • Driver 1         • Driver 1         • Driver 1
-   • Driver 2         • Driver 2         • Driver 2
-       |                  |                  |
-   Negative:          Negative:          Negative:
-   • Driver 1         • Driver 1         • Driver 1
-   • Driver 2         • Driver 2         • Driver 2
+GOALS                  PRODUCT              TARGET GROUPS        DRIVERS
+─────────────────────  ───────────────────  ───────────────────  ────────────────────
+[BUSINESS GOAL 1]      [PRODUCT/            [👥 PRIMARY          [✅ POSITIVE]
+Vision Statement 1  ──→ SOLUTION    ──────→ TARGET GROUP]   ───→ • Positive Goal 1
+Strategic Obj 1-3      Name &               Brief profile        • Positive Goal 2
+                       Description                │              
+[BUSINESS GOAL 2]                                 │              [❌ NEGATIVE]
+Vision Statement 2  ──→                           └─────────────→ • Negative Goal 1
+Strategic Obj 1-3                                                 • Negative Goal 2
+                                                                  
+                                                                  
+                                            [👤 SECONDARY         [✅ POSITIVE]
+                                    ────→   TARGET GROUP]  ─────→ • Positive Goal 1
+                                            Brief profile         • Positive Goal 2
+                                                  │              
+                                                  │              [❌ NEGATIVE]
+                                                  └─────────────→ • Negative Goal 1
+                                                                  • Negative Goal 2
 ```
 
 ---

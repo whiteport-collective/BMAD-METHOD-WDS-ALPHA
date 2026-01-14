@@ -421,6 +421,20 @@ You'll have:
 
 ## Creating the Visual Trigger Map
 
+### Understanding the Structure
+
+**The Trigger Map flows horizontally (left to right) in four layers:**
+
+```
+Business Goals → Product/Solution → Target Groups → Usage Goals
+                                                     (Positive + Negative)
+```
+
+1. **Business Goals** (Left, Blue) - Your vision and SMART objectives
+2. **Product/Solution** (Center, Yellow) - What you're building
+3. **Target Groups** (Middle-Right, Orange) - Prioritized personas (👥 primary, 👤 secondary)
+4. **Usage Goals** (Right, Green/Red) - Positive drivers (✅) and negative drivers (❌) separated
+
 ### After All Workshops
 
 **Ask Saga to create the visual map:**
