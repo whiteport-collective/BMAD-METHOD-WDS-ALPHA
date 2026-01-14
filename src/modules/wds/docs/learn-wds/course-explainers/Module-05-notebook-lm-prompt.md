@@ -154,39 +154,51 @@ Stop guessing. Start mapping."
 Here's a simplified Trigger Map structure to help explain the visual layout:
 
 ```mermaid
-graph TD
-    BG["<b>BUSINESS GOAL</b><br/><br/>Visionary Statement 1<br/><br/><b>Strategic Objectives:</b><br/>• Strategic Objective 1<br/>• Strategic Objective 2<br/>• Strategic Objective 3"]
+graph LR
+    BG1["<b>BUSINESS GOAL 1</b><br/><br/>Visionary Statement 1<br/><br/><b>Strategic Objectives:</b><br/>• Strategic Objective 1<br/>• Strategic Objective 2<br/>• Strategic Objective 3"]
     
-    PRODUCT["<b>Product/Solution Name</b><br/><br/>Brief description of<br/>what the product does"]
+    BG2["<b>BUSINESS GOAL 2</b><br/><br/>Visionary Statement 2<br/><br/><b>Strategic Objectives:</b><br/>• Strategic Objective 1<br/>• Strategic Objective 2<br/>• Strategic Objective 3"]
     
-    TG1["👥 <b>Primary Target Group</b><br/><br/>Brief description"]
+    PRODUCT["<b>Product/Solution Name</b>"]
     
-    TG2["👤 <b>Secondary Target Group</b><br/><br/>Brief description"]
+    TG1["👥 <b>Primary Target Group</b>"]
     
-    UG1["<b>✅ POSITIVE DRIVERS:</b><br/>• Positive Usage Goal 1<br/>• Positive Usage Goal 2<br/><br/><b>❌ NEGATIVE DRIVERS:</b><br/>• Negative Usage Goal 1<br/>• Negative Usage Goal 2"]
+    TG2["👤 <b>Secondary Target Group</b>"]
     
-    UG2["<b>✅ POSITIVE DRIVERS:</b><br/>• Positive Usage Goal 1<br/>• Positive Usage Goal 2<br/><br/><b>❌ NEGATIVE DRIVERS:</b><br/>• Negative Usage Goal 1<br/>• Negative Usage Goal 2"]
+    POS1["<b>✅ POSITIVE DRIVERS:</b><br/>• Positive Usage Goal 1<br/>• Positive Usage Goal 2"]
     
-    BG --> PRODUCT
+    NEG1["<b>❌ NEGATIVE DRIVERS:</b><br/>• Negative Usage Goal 1<br/>• Negative Usage Goal 2"]
+    
+    POS2["<b>✅ POSITIVE DRIVERS:</b><br/>• Positive Usage Goal 1<br/>• Positive Usage Goal 2"]
+    
+    NEG2["<b>❌ NEGATIVE DRIVERS:</b><br/>• Negative Usage Goal 1<br/>• Negative Usage Goal 2"]
+    
+    BG1 --> PRODUCT
+    BG2 --> PRODUCT
     PRODUCT --> TG1
     PRODUCT --> TG2
-    TG1 --> UG1
-    TG2 --> UG2
+    TG1 --> POS1
+    TG1 --> NEG1
+    TG2 --> POS2
+    TG2 --> NEG2
     
-    style BG fill:#e3f2fd,stroke:#1976d2,stroke-width:3px
+    style BG1 fill:#e3f2fd,stroke:#1976d2,stroke-width:3px
+    style BG2 fill:#e3f2fd,stroke:#1976d2,stroke-width:3px
     style PRODUCT fill:#fff9c4,stroke:#f57f17,stroke-width:3px
     style TG1 fill:#fff3e0,stroke:#f57c00,stroke-width:2px
     style TG2 fill:#fff3e0,stroke:#f57c00,stroke-width:2px
-    style UG1 fill:#f1f8e9,stroke:#558b2f,stroke-width:2px
-    style UG2 fill:#f1f8e9,stroke:#558b2f,stroke-width:2px
+    style POS1 fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+    style NEG1 fill:#ffebee,stroke:#c62828,stroke-width:2px
+    style POS2 fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+    style NEG2 fill:#ffebee,stroke:#c62828,stroke-width:2px
 ```
 
 **Key Visual Elements:**
-- **Top (Blue):** Business Goal with vision statement and measurable SMART objectives
+- **Left (Blue):** Business Goals with vision statements and measurable SMART objectives
 - **Center (Yellow):** The Product/Solution being built
 - **Middle (Orange):** Target Groups radiating from the product, with priority indicators (👥 primary, 👤 secondary)
-- **Bottom (Light Green):** Usage Goals for each target group - positive drivers (✅ what they want) and negative drivers (❌ what they fear) grouped together
-- **Arrows:** Show the strategic chain - business goals → product → target groups → their psychological drivers
+- **Right (Green/Red):** Usage Goals separated into positive drivers (✅ green - what they want) and negative drivers (❌ red - what they fear)
+- **Arrows:** Show the strategic chain - business goals → product → target groups → their psychological drivers (both positive and negative)
 
 This one-page map makes the entire strategy visible and accessible to everyone on the team.
 
