@@ -149,6 +149,50 @@ Stop guessing. Start mapping."
 
 ---
 
+## Visual Example: Simplified Trigger Map
+
+Here's a simplified Trigger Map structure to help explain the visual layout:
+
+```mermaid
+graph LR
+    BG[Business Goal:<br/>Launch Successful<br/>Meal Planning App<br/><br/>Strategic Objectives:<br/>• 10,000 active users by Q4<br/>• 60% weekly retention<br/>• 4.5+ app store rating]
+    
+    BG --> TG1[👥 Busy Parent<br/>Primary Target<br/>Working parent with<br/>2+ kids, limited time]
+    BG --> TG2[👤 Health-Conscious<br/>Professional<br/>Secondary Target<br/>Single, fitness-focused,<br/>meal prep beginner]
+    
+    TG1 --> UG1A[✅ GAIN: Save time<br/>on meal planning]
+    TG1 --> UG1B[✅ GAIN: Feed family<br/>healthy meals]
+    TG1 --> UG1C[❌ PAIN: Stop wasting<br/>food & money]
+    TG1 --> UG1D[❌ PAIN: Avoid mealtime<br/>stress & arguments]
+    
+    TG2 --> UG2A[✅ GAIN: Hit macro<br/>targets easily]
+    TG2 --> UG2B[✅ GAIN: Build meal<br/>prep confidence]
+    TG2 --> UG2C[❌ PAIN: Stop wasting<br/>time calculating]
+    TG2 --> UG2D[❌ PAIN: Avoid feeling<br/>overwhelmed]
+    
+    style BG fill:#e1f5ff
+    style TG1 fill:#fff4e1
+    style TG2 fill:#fff4e1
+    style UG1A fill:#e8f5e9
+    style UG1B fill:#e8f5e9
+    style UG1C fill:#ffebee
+    style UG1D fill:#ffebee
+    style UG2A fill:#e8f5e9
+    style UG2B fill:#e8f5e9
+    style UG2C fill:#ffebee
+    style UG2D fill:#ffebee
+```
+
+**Key Visual Elements:**
+- **Left (Blue):** Business Goal with measurable objectives
+- **Middle (Orange):** Target Groups with emoji indicators (👥 primary, 👤 secondary)
+- **Right (Green/Red):** Usage Goals - positive drivers (✅ GAIN) and negative drivers (❌ PAIN)
+- **Arrows:** Show the strategic chain - business goals achieved THROUGH target groups pursuing THEIR goals
+
+This one-page map makes the entire strategy visible and accessible to everyone on the team.
+
+---
+
 ## Tone & Style
 
 - **Conversational but authoritative** - You know this works
