@@ -1,51 +1,25 @@
 Module 05 - Trigger Mapping - Connect Business Goals to User Psychology
+<https://youtu.be/xs_cRk-NoJk>
 
-[YouTube link to be added]
+Ever built something beautiful that nobody wanted? Trigger Mapping bridges business strategy to user psychology through 5 structured workshops, creating a visual one-page map that guides every design decision. Based on 20+ years of proven methodology.
 
-Ever built something beautiful that nobody wanted? The gap between Product Brief and design is where projects fail. Trigger Mapping bridges business strategy to user psychology through 5 structured workshops, creating a visual map that guides every design decision. Based on 20+ years of proven methodology.
-
-*You'll learn:*
-✅ Why Product Brief alone isn't enough (the missing link)
-✅ The Effect Management heritage and WDS modernization
-✅ The 5 workshops that map user psychology
-✅ Why negative drivers are more powerful than positive ones
-✅ How to create the visual one-page Trigger Map
-✅ Systematic feature scoring for data-driven priorities
-
-*Free & open-source* | 55-70 minutes | Core methodology module
+*Free & open-source* | 6 minutes | Core methodology module
 
 ⏱️ Timestamps
 
-00:00 The Missing Link - Why Product Brief Isn't Enough
-01:00 The Heritage - Effect Management to Trigger Mapping
-02:00 The Five Workshops Overview
-03:00 Positive & Negative Drivers (Loss Aversion)
-04:00 The Visual Trigger Map
-05:00 Feature Impact Scoring
-06:00 The Strategic Value
+00:00 The Problem - Why Brilliant Ideas Fail
+00:41 The Solution - What is a Trigger Map?
+01:30 The Three Layers - Business Goals, Target Groups, Usage Goals
+02:48 The Psychology - Positive vs Negative Drivers (Loss Aversion)
+04:01 Building the Map - The Process & Visual
+05:09 The Benefits - Stop Guessing, Start Mapping
 
-🎯 The Three Strategic Layers
+🎯 What You'll Create
 
-*Business Goals* - Your WHY (vision + SMART objectives)
-*Target Groups* - The WHO (user types whose success drives yours)
-*Usage Goals* - Their WHY (positive drivers + negative drivers)
-
-📋 What You'll Create
-
-*Core Deliverables:*
-Business Goals (vision + 3-5 SMART objectives)
-Target Groups (3-5 prioritized personas)
-Driving Forces (positive + negative for each persona)
-Priority Rankings (groups and drivers ranked)
-Visual Trigger Map (one-page strategic document)
-Feature Impact Analysis (scored and ranked feature list)
-
-*Strategic Value:*
-Clear connection from business goals to user psychology
-Data-driven feature prioritization
-Team alignment around strategic priorities
-Foundation for all design decisions
-Traceable reasoning for every feature
+Visual one-page Trigger Map connecting:
+• Business Goals → Target Groups → Usage Goals (positive + negative drivers)
+• Data-driven feature prioritization
+• Clear strategic rationale for every design decision
 
 📚 Course Resources
 
@@ -75,54 +49,17 @@ Traceable reasoning for every feature
 📚 *Full Course:*
 <https://github.com/whiteport-collective/whiteport-design-studio/blob/main/src/modules/wds/docs/learn-wds/00-course-overview.md>
 
-⚡ *The WDS Advantage*
+⚡ Key Insight
 
-*Proven Methodology:* 20+ years of Effect Management heritage from inUse, Sweden
-*AI-Guided:* Saga facilitates all 5 workshops with structured questions
-*Deeper Psychology:* Both positive and negative drivers (loss aversion principle)
-*Visual Strategy:* One-page map everyone can understand
-*Systematic Scoring:* Data-driven feature prioritization (0-3 scale)
-*Integrated Workflow:* Lives in your IDE with your code
+Negative drivers (fears/pains) are often more powerful than positive ones. Loss aversion: people work twice as hard to avoid pain as to pursue equivalent gain.
 
-✅ *The Five Workshops:*
-1. Business Goals - Define vision and SMART objectives (15-20 min)
-2. Target Groups - Identify and prioritize personas (20-25 min)
-3. Driving Forces - Map positive and negative psychology (20-30 min)
-4. Prioritization - Rank groups and drivers by impact (15-20 min)
-5. Feature Impact - Score features systematically (20-30 min)
+📖 Heritage
 
-🧠 *Key Concepts:*
-
-*Positive Drivers (GAIN):* What users want to achieve, benefits they seek, goals that pull them forward
-
-*Negative Drivers (PAIN):* What users want to avoid, fears that push them to act, problems they're escaping
-
-*Loss Aversion:* People work roughly twice as hard to avoid pain as to pursue equivalent gain - negative drivers are often more powerful motivators
-
-*Feature Impact Scoring:* Rate each feature (0-3) against top prioritized drivers, sum scores, rank by total strategic impact
-
-*Visual Trigger Map:* One-page diagram showing Business Goals → Target Groups → Usage Goals with clear priorities
-
-📖 *Heritage & Further Reading:*
-
-Effect Management methodology created by Mijo Balic and Ingrid Domingues (Ottersten) at inUse, Sweden
-
-Impact Mapping by Gojko Adzic (building on Effect Mapping):
-<https://www.amazon.com/Impact-Mapping-Software-Products-Projects/dp/0955683645>
-
-Impact Mapping resources:
+Based on Effect Management (Mijo Balic & Ingrid Domingues, inUse Sweden) and Impact Mapping (Gojko Adzic)
 <https://www.impactmapping.org>
 
-✅ *Next Steps:*
-1. Watch this module to understand Trigger Mapping methodology
-2. Complete Tutorial 05 to create your Trigger Map with Saga
-3. Reference your map for every design decision
-4. Update quarterly or when strategy shifts
-5. Start Module 06: Scenarios
+🎨 About WDS
 
-🎨 *About WDS*
-AI-augmented design methodology by Mårten Angner (Whiteport, Sweden). Trigger Mapping connects business strategy to user psychology through proven methodology, preventing months of building the wrong things.
+AI-augmented design methodology by Mårten Angner (Whiteport, Sweden). 90 minutes of strategic work saves months of building the wrong things. 🎯
 
-TriggerMapping, UserPsychology, FeaturePrioritization, WDS, StrategicDesign, EffectManagement
-
-*90 minutes of strategic work saves months of building the wrong things. 🎯*
+#TriggerMapping #UserPsychology #FeaturePrioritization #WDS #StrategicDesign

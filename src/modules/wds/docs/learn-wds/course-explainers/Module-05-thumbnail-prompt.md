@@ -5,9 +5,9 @@ Create a 1920x1080px YouTube thumbnail matching the reference image style.
 **What to Change from Reference:**
 
 **Headlines (Left side):**
-- Line 1: "CONNECT GOALS" (Rubrik Light, 91pt, white)
-- Line 2: "TO PSYCHOLOGY" (Rubrik Bold, 91pt, white)
-- Line 3: "TRIGGER MAPPING!" (Rubrik Bold, 91pt, white)
+- Line 1: "TRIGGER MAPPING" (Rubrik Light, 91pt, white)
+- Line 2: "YOUR ONE SLIDE STRATEGY" (Rubrik Bold, 91pt, white)
+- Line 3: "FOR ANY DIGITAL PROJECT!" (Rubrik Bold, 91pt, white)
 - Line spacing: 79pt
 
 **Module Badge (Bottom-left):**

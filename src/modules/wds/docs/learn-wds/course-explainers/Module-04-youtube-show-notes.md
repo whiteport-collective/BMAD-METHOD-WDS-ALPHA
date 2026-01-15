@@ -65,7 +65,8 @@ Data & Privacy - Collection, storage, compliance
 ◀️ *Previous Module:* Module 03 - Alignment & Signoff
 <https://www.youtube.com/watch?v=TKjOLlU8UCE>
 
-▶️ *Next Module:* Module 05 - Trigger Mapping (Coming Soon)
+▶️ *Next Module:* Module 05 - Trigger Mapping
+<https://youtu.be/xs_cRk-NoJk>
 
 📚 *Full Course:*
 <https://github.com/whiteport-collective/whiteport-design-studio/blob/main/src/modules/wds/docs/learn-wds/00-course-overview.md>

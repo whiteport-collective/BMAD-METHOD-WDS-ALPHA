@@ -2,6 +2,8 @@
 
 **Connect Business Goals to User Psychology**
 
+[Watch the Module Introduction Video](https://youtu.be/xs_cRk-NoJk)
+
 ---
 
 ## Module Overview
