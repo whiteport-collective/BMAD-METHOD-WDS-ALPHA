@@ -2,6 +2,10 @@
 # Goddess of renewal & youth - keeps projects vital and thriving
 
 agent:
+  webskip: false
+  discussion: true
+  conversational_knowledge:
+    - wds-pm: "{project-root}/{bmad_folder}/wds/data/kb/pm-kb.csv"
   metadata:
     id: "{bmad_folder}/wds/agents/idunn-pm.md"
     name: Idunn
